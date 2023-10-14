@@ -64,8 +64,26 @@ accuracy
 dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
 ## Output:
+### DATA.HEAD()
+![image](https://github.com/Sachin-vlr/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/113497666/f03f6fb7-787d-45fe-b6c3-9371162ede24)
 
+### DATA.INFO()
+![image](https://github.com/Sachin-vlr/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/113497666/52b3cb76-4c83-46c5-890d-250e38f74d06)
 
+### ISNULL() AND SUM()
+![image](https://github.com/Sachin-vlr/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/113497666/c428ffdc-5525-46e7-8d71-14d447af335a)
+
+### DATAVALUE COUUNTS()
+![image](https://github.com/Sachin-vlr/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/113497666/01f94040-f0e1-4819-8e7b-17c04a81ee9e)
+
+### Data.head() for salary
+![image](https://github.com/Sachin-vlr/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/113497666/e8b5abc2-996a-4083-a32b-55f675b3be0c)
+
+### X.Head()
+![image](https://github.com/Sachin-vlr/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/113497666/9beb7401-923f-4d6a-ba94-beaa8603a319)
+
+### Accuracy Value
+![image](https://github.com/Sachin-vlr/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/113497666/fd2af46f-b2aa-4a2a-91a8-caff21b5fd0d)
 
 ## Result:
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
